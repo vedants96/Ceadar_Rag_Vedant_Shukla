@@ -1,3 +1,9 @@
+- The Ceadar_Rag_Final.ipynb file consist of the entire code cells for the project.
+- For the sake of deployment, two files rag_core.py and streamlit_app.py were created, they contain almos the same code as ipynb notebook file.
+
+
+
+
 **Hybrid Retrieval-Augmented Generation (RAG) for Technical Document QA**
 
 This project explores how retrieval and generation can work together to answer research-style technical questions accurately. The focus is on building a hybrid retriever that merges semantic understanding (dense embeddings) with exact keyword precision (sparse search), and presenting it through a simple Streamlit UI deployed on Hugging Face Spaces for interactive exploration.
